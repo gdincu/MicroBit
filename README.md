@@ -1,6 +1,6 @@
 # MicroBit
 
-![Microbit](https://microbit.org/assets/images/logo.svg)
+![Microbit](https://microbit.org/images/microbit-logo-stacked.png)
 
 [ **Microbit Website: **](https://microbit.org/)
 [ **Online Editor: **](https://makecode.microbit.org/)
