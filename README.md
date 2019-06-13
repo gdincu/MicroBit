@@ -1,6 +1,6 @@
 # MicroBit
 
-![Microbit](https://microbit.org/images/microbit-logo-stacked.png)
+![Microbit](https://microbit.org/images/microbit-logo-stacked.png) =100x20
 
 [ **Microbit Website: **](https://microbit.org/)
 [ **Online Editor: **](https://makecode.microbit.org/)
