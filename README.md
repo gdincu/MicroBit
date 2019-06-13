@@ -8,3 +8,4 @@
 
 * :open_file_folder: [ **Resources** ](https://github.com/gdincu/MicroBit/tree/master/Resources)
 * :open_file_folder: [ **Projects** ](https://github.com/gdincu/MicroBit/tree/master/Projects)
+* :open_file_folder: [ **Challenges** ](https://github.com/gdincu/MicroBit/tree/master/Challenges)
