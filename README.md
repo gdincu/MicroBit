@@ -1,4 +1,4 @@
-<img src="https://microbit.org/images/microbit-logo-stacked.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/gdincu/MicroBit/master/Resources/microbit-logo-stacked.png" alt="drawing" width="200"/>
 
 [ **Microbit Website:**](https://microbit.org/) https://microbit.org/
 <br>
