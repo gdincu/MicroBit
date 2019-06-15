@@ -9,12 +9,10 @@
   <td>
     <ul>
       <li>
-      <a href="https://microbit.org/">
-      <b>Microbit Website: </b></a> https://microbit.org/        
+      <b>Microbit Website: </b>https://microbit.org/        
       </li>
       <li>
-      <a href="https://makecode.microbit.org/">
-      <b>Online Editor: </b></a> https://makecode.microbit.org/        
+      <b>Online Editor: </b>https://makecode.microbit.org/        
       </li>
     </ul>
   </td> 
