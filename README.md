@@ -7,9 +7,18 @@
   </td>
     
   <td>
-* [ **Microbit Website:** ](https://microbit.org/) https://microbit.org/
-  <br>
-* [ **Online Editor:** ](https://makecode.microbit.org/) https://makecode.microbit.org/ 
+    <ul>
+      <li>
+      <a href="https://microbit.org/">
+      <b>Microbit Website: </b>https://microbit.org/        
+      </a>
+      </li>
+      <li>
+      <a href="https://makecode.microbit.org/">
+      <b>Online Editor: </b>https://makecode.microbit.org/        
+      </a>
+      </li>
+    </ul>
   </td> 
 </tr>
 </table>
