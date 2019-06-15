@@ -1,4 +1,6 @@
+<a href="https://microbit.org/">
 <img src="https://raw.githubusercontent.com/gdincu/MicroBit/master/Resources/microbit-logo-stacked.png" alt="drawing" width="200"/>
+</a>
 
 [ **Microbit Website:**](https://microbit.org/) https://microbit.org/
 <br>
