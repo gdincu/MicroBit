@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
 <tr>
   <td>
   <a href="https://microbit.org/">
